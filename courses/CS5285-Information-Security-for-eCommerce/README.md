@@ -5,7 +5,7 @@
 - **课程代码**：CS5285
 - **课程名称**：Information Security for eCommerce
 - **学分**：3
-- **状态**：⚪ 待整理
+- **状态**：🟡 已有课程材料
 
 ## 主要内容
 
@@ -34,4 +34,5 @@
 > `my-notes/` 中为本人原创笔记与学习整理，遵循 MIT 协议开放，转载请注明出处。
 
 - `materials/official/` —— 官方课件（不含答案）
+  - `official/exams/` —— 历年期末考题卷（CS5285-0102B 等 8 份 + 2020 考题，均为试题不含答案）
 - `materials/my-notes/` —— 本人原创笔记 / 作业 / 整理
