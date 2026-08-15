@@ -34,4 +34,5 @@
 > `my-notes/` 中为本人原创笔记与学习整理，遵循 MIT 协议开放，转载请注明出处。
 
 - `materials/official/` —— 官方课件（不含答案）
+  - 含 2 份 IS5411 相关材料（`IS5411-FinalExam-Questions.pdf` 期末试题、`【画图大全】IS5411_20221124.pdf` 画图大全），系同门相关课程资料，一并归档于此
 - `materials/my-notes/` —— 本人原创笔记 / 作业 / 整理
