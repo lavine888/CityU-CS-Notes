@@ -34,4 +34,5 @@
 > `my-notes/` 中为本人原创笔记与学习整理，遵循 MIT 协议开放，转载请注明出处。
 
 - `materials/official/` —— 官方课件（不含答案）
+  - `official/exams/` —— 历年考题卷（CS5187past+exam 等，试题不含答案）
 - `materials/my-notes/` —— 本人原创笔记 / 作业 / 整理
