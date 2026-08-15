@@ -1,0 +1,28 @@
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.log
+
+# Do not upload copyrighted course materials (official slides, exams, etc.)
+# Only original notes and resource indexes belong in this repo.
+*.pptx
+*.pdf
+*.docx
+*.zip
+
+# WorkBuddy internal memory (not part of public repo)
+.workbuddy/
+
+# Python virtual environments
+venv/
+.env/
