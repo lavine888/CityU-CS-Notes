@@ -4,7 +4,7 @@
 
 ## Semester A 2025/26
 
-| 课程代码 | 课程名称 | 目录 | 状态 |
+| 课程代码 | 课程名称 | 目录（GitHub）| 状态 |
 |---|---|---|---|
 | CS5187 | Vision and Image | [CS5187-Vision-and-Image](CS5187-Vision-and-Image) | 🟡 已有课程材料 |
 | CS5285 | Information Security for eCommerce | [CS5285-Information-Security-for-eCommerce](CS5285-Information-Security-for-eCommerce) | 🟡 已有课程材料 |
@@ -15,14 +15,14 @@
 
 ## Semester B 2025/26
 
-| 课程代码 | 课程名称 | 目录 | 状态 |
+| 课程代码 | 课程名称 | 目录（GitHub）| 状态 |
 |---|---|---|---|
 | CS5281 | Internet Application Development | [CS5281-Internet-Application-Development](CS5281-Internet-Application-Development) | 🟡 已有课程材料 |
 | CS5491 | Artificial Intelligence | [CS5491-Artificial-Intelligence](CS5491-Artificial-Intelligence) | 🟡 已有课程材料 |
 | CS6493 | Natural Language Processing | [CS6493-Natural-Language-Processing](CS6493-Natural-Language-Processing) | 🟡 已有课程材料 |
 | IS5314 | eBusiness System Integration | [IS5314-eBusiness-System-Integration](IS5314-eBusiness-System-Integration) | 🟡 已有课程材料 |
 
-状态图例：🟡 已有课程材料 · ⚪ 待整理
+状态图例：🟡 已有课程材料 · 🟢 整理中 · 🔵 规划中
 
 ---
 
