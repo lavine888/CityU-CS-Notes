@@ -5,7 +5,7 @@
 - **课程代码**：CS6493
 - **课程名称**：Natural Language Processing
 - **学分**：3
-- **状态**：⚪ 待整理
+- **状态**：🟡 已有课程材料
 
 ## 主要内容
 
@@ -20,9 +20,9 @@
 
 | 序号 | 主题 | 链接 |
 |---|---|---|
-| 01 | （待补充）| — |
+| 01 | 双语复习讲义（Lecture Review Bilingual）| [lecture_review_bilingual.pdf](materials/my-notes/lecture_review_bilingual.pdf) |
 
-> 目录已就绪，欢迎认领并补第一篇笔记。结构参考 [`templates/note-template.md`](../../templates/note-template.md)。
+> 原创学习整理（中英双语复习），遵循 MIT 协议开放。结构参考 [`templates/note-template.md`](../../templates/note-template.md)。
 
 ## 参考资料
 - 课程官方材料（请从 CityU 课程门户获取）
