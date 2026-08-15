@@ -17,7 +17,7 @@
 
 | 课程代码 | 课程名称 | 目录 | 状态 |
 |---|---|---|---|
-| CS5281 | Internet Application Development | [CS5281-Internet-Application-Development](CS5281-Internet-Application-Development) | ⚪ 待整理 |
+| CS5281 | Internet Application Development | [CS5281-Internet-Application-Development](CS5281-Internet-Application-Development) | 🟡 已有课程材料 |
 | CS5491 | Artificial Intelligence | [CS5491-Artificial-Intelligence](CS5491-Artificial-Intelligence) | 🟡 已有课程材料 |
 | CS6493 | Natural Language Processing | [CS6493-Natural-Language-Processing](CS6493-Natural-Language-Processing) | 🟡 已有课程材料 |
 | IS5314 | eBusiness System Integration | [IS5314-eBusiness-System-Integration](IS5314-eBusiness-System-Integration) | 🟡 已有课程材料 |
