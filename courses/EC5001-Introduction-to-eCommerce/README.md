@@ -34,4 +34,7 @@
 > `my-notes/` 中为本人原创笔记与学习整理，遵循 MIT 协议开放，转载请注明出处。
 
 - `materials/official/` —— 官方课件（不含答案）
+  - `official/lecture/` —— 讲义（Strategy、M-Commerce Business Plan、B2B、B2C）
+  - `official/tutorial/` —— Tutorial 3
+  - `official/` 根目录 —— 课程大纲（Outline）、Online Banks 安全案例
 - `materials/my-notes/` —— 本人原创笔记 / 作业 / 整理
