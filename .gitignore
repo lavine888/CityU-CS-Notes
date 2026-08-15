@@ -13,11 +13,11 @@ Thumbs.db
 *.tmp
 *.log
 
-# Do not upload copyrighted course materials (official slides, exams, etc.)
-# Only original notes and resource indexes belong in this repo.
-*.pptx
-*.pdf
-*.docx
+# Official course materials (slides, tutorials, handouts) are intentionally
+# included under courses/<code>/materials/ at the repository owner's discretion.
+# They remain the copyright of City University of Hong Kong / the respective
+# instructors. Do NOT add answer keys, solution PDFs, or exam papers.
+# Exclude large raw datasets (e.g. course data zips > 50MB).
 *.zip
 
 # WorkBuddy internal memory (not part of public repo)

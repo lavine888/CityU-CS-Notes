@@ -29,7 +29,7 @@
 |---|---|---|---|
 | CS5187 | Vision and Image | [`courses/CS5187-Vision-and-Image`](courses/CS5187-Vision-and-Image) | ⚪ 待整理 |
 | CS5285 | Information Security for eCommerce | [`courses/CS5285-Information-Security-for-eCommerce`](courses/CS5285-Information-Security-for-eCommerce) | ⚪ 待整理 |
-| CS5481 | Data Engineering | [`courses/CS5481-Data-Engineering`](courses/CS5481-Data-Engineering) | ⚪ 待整理 |
+| CS5481 | Data Engineering | [`courses/CS5481-Data-Engineering`](courses/CS5481-Data-Engineering) | 🟡 已有课程材料 |
 | EC5001 | Introduction to eCommerce | [`courses/EC5001-Introduction-to-eCommerce`](courses/EC5001-Introduction-to-eCommerce) | ⚪ 待整理 |
 | IS5414 | Analysis and Design of eCommerce Systems | [`courses/IS5414-Analysis-and-Design-of-eCommerce-Systems`](courses/IS5414-Analysis-and-Design-of-eCommerce-Systems) | ⚪ 待整理 |
 | IS6400 | Business Data Analytics | [`courses/IS6400-Business-Data-Analytics`](courses/IS6400-Business-Data-Analytics) | ⚪ 待整理 |
