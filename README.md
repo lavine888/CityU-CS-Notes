@@ -43,7 +43,7 @@
 | CS6493 | Natural Language Processing | [`courses/CS6493-Natural-Language-Processing`](courses/CS6493-Natural-Language-Processing) | 🟡 已有课程材料 |
 | IS5314 | eBusiness System Integration | [`courses/IS5314-eBusiness-System-Integration`](courses/IS5314-eBusiness-System-Integration) | 🟡 已有课程材料 |
 
-状态图例：🟢 已有笔记 · 🟡 少量笔记 · ⚪ 待整理
+状态图例：🟡 已有课程材料 · ⚪ 待整理
 
 ---
 
