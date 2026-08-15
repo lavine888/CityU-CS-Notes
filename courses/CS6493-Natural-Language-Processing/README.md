@@ -21,6 +21,7 @@
 | 序号 | 主题 | 链接 |
 |---|---|---|
 | 01 | 双语复习讲义（Lecture Review Bilingual）| [lecture_review_bilingual.pdf](materials/my-notes/lecture_review_bilingual.pdf) |
+| 02 | NLP 综合复习（NLP-Review）| [NLP-Review.pdf](materials/my-notes/NLP-Review.pdf) |
 
 > 原创学习整理（中英双语复习），遵循 MIT 协议开放。结构参考 [`templates/note-template.md`](../../templates/note-template.md)。
 
