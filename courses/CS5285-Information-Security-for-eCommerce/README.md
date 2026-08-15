@@ -27,3 +27,11 @@
 ## 参考资料
 - 课程官方材料（请从 CityU 课程门户获取）
 - 教材（待补充）
+## 课程材料（Course Materials）
+
+> **版权声明**：本目录下 `official/` 中的课件（lectures / tutorials / assignments）版权归香港城市大学（City University of Hong Kong）及任课教师所有，仅供个人学习参考，**不包含任何标准答案 / 题解 / 考试答案**。如版权方提出要求，将立即撤下相关文件。
+>
+> `my-notes/` 中为本人原创学习笔记、作业与整理，欢迎参考，转载请注明出处。
+
+- `materials/official/` —— 官方课件（不含答案）
+- `materials/my-notes/` —— 本人原创笔记 / 作业 / 整理

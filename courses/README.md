@@ -6,12 +6,12 @@
 
 | 课程代码 | 课程名称 | 目录 | 状态 |
 |---|---|---|---|
-| CS5187 | Vision and Image | [CS5187-Vision-and-Image](CS5187-Vision-and-Image) | ⚪ 待整理 |
-| CS5285 | Information Security for eCommerce | [CS5285-Information-Security-for-eCommerce](CS5285-Information-Security-for-eCommerce) | ⚪ 待整理 |
+| CS5187 | Vision and Image | [CS5187-Vision-and-Image](CS5187-Vision-and-Image) | 🟡 已有课程材料 |
+| CS5285 | Information Security for eCommerce | [CS5285-Information-Security-for-eCommerce](CS5285-Information-Security-for-eCommerce) | 🟡 已有课程材料 |
 | CS5481 | Data Engineering | [CS5481-Data-Engineering](CS5481-Data-Engineering) | 🟡 已有课程材料 |
-| EC5001 | Introduction to eCommerce | [EC5001-Introduction-to-eCommerce](EC5001-Introduction-to-eCommerce) | ⚪ 待整理 |
-| IS5414 | Analysis and Design of eCommerce Systems | [IS5414-Analysis-and-Design-of-eCommerce-Systems](IS5414-Analysis-and-Design-of-eCommerce-Systems) | ⚪ 待整理 |
-| IS6400 | Business Data Analytics | [IS6400-Business-Data-Analytics](IS6400-Business-Data-Analytics) | ⚪ 待整理 |
+| EC5001 | Introduction to eCommerce | [EC5001-Introduction-to-eCommerce](EC5001-Introduction-to-eCommerce) | 🟡 已有课程材料 |
+| IS5414 | Analysis and Design of eCommerce Systems | [IS5414-Analysis-and-Design-of-eCommerce-Systems](IS5414-Analysis-and-Design-of-eCommerce-Systems) | 🟡 已有课程材料 |
+| IS6400 | Business Data Analytics | [IS6400-Business-Data-Analytics](IS6400-Business-Data-Analytics) | 🟡 已有课程材料 |
 
 ## Semester B 2025/26
 
@@ -19,8 +19,8 @@
 |---|---|---|---|
 | CS5281 | Internet Application Development | [CS5281-Internet-Application-Development](CS5281-Internet-Application-Development) | ⚪ 待整理 |
 | CS5491 | Artificial Intelligence | [CS5491-Artificial-Intelligence](CS5491-Artificial-Intelligence) | ⚪ 待整理 |
-| CS6493 | Natural Language Processing | [CS6493-Natural-Language-Processing](CS6493-Natural-Language-Processing) | ⚪ 待整理 |
-| IS5314 | eBusiness System Integration | [IS5314-eBusiness-System-Integration](IS5314-eBusiness-System-Integration) | ⚪ 待整理 |
+| CS6493 | Natural Language Processing | [CS6493-Natural-Language-Processing](CS6493-Natural-Language-Processing) | 🟡 已有课程材料 |
+| IS5314 | eBusiness System Integration | [IS5314-eBusiness-System-Integration](IS5314-eBusiness-System-Integration) | 🟡 已有课程材料 |
 
 状态图例：🟢 已有笔记 · 🟡 少量笔记 · ⚪ 待整理
 
