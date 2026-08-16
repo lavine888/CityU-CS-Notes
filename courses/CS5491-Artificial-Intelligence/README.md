@@ -39,3 +39,6 @@
 ## 参考资料
 - 课程官方材料（见 `materials/`，版权归 CityU）
 - 教材（待补充）
+
+## 推荐阅读
+- *Foundations of Machine Learning*（2nd ed.）— Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar，MIT Press。机器学习理论经典教材，涵盖 PAC 学习、VC 维、Rademacher 复杂度、SVM、Boosting、在线学习等。本书为第三方正式出版物，**本仓库不收录其 PDF**，请通过正规渠道获取。
