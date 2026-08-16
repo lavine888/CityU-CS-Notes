@@ -23,25 +23,86 @@
 
 ## 课程索引
 
-### Semester A 2025/26
-
-| 课程代码 | 课程名称 | 目录（GitHub）| 状态 |
-|---|---|---|---|
-| CS5187 | Vision and Image | [`courses/CS5187-Vision-and-Image`](courses/CS5187-Vision-and-Image) | 🟡 已有课程材料 |
-| CS5285 | Information Security for eCommerce | [`courses/CS5285-Information-Security-for-eCommerce`](courses/CS5285-Information-Security-for-eCommerce) | 🟡 已有课程材料 |
-| CS5481 | Data Engineering | [`courses/CS5481-Data-Engineering`](courses/CS5481-Data-Engineering) | 🟡 已有课程材料 |
-| EC5001 | Introduction to eCommerce | [`courses/EC5001-Introduction-to-eCommerce`](courses/EC5001-Introduction-to-eCommerce) | 🟡 已有课程材料 |
-| IS5414 | Analysis and Design of eCommerce Systems | [`courses/IS5414-Analysis-and-Design-of-eCommerce-Systems`](courses/IS5414-Analysis-and-Design-of-eCommerce-Systems) | 🟡 已有课程材料 |
-| IS6400 | Business Data Analytics | [`courses/IS6400-Business-Data-Analytics`](courses/IS6400-Business-Data-Analytics) | 🟡 已有课程材料 |
-
-### Semester B 2025/26
-
-| 课程代码 | 课程名称 | 目录（GitHub）| 状态 |
-|---|---|---|---|
-| CS5281 | Internet Application Development | [`courses/CS5281-Internet-Application-Development`](courses/CS5281-Internet-Application-Development) | 🟡 已有课程材料 |
-| CS5491 | Artificial Intelligence | [`courses/CS5491-Artificial-Intelligence`](courses/CS5491-Artificial-Intelligence) | 🟡 已有课程材料 |
-| CS6493 | Natural Language Processing | [`courses/CS6493-Natural-Language-Processing`](courses/CS6493-Natural-Language-Processing) | 🟡 已有课程材料 |
-| IS5314 | eBusiness System Integration | [`courses/IS5314-eBusiness-System-Integration`](courses/IS5314-eBusiness-System-Integration) | 🟡 已有课程材料 |
+<table>
+<colgroup>
+<col width="12%">
+<col width="30%">
+<col width="40%">
+<col width="18%">
+</colgroup>
+<thead>
+<tr>
+<th>课程代码</th>
+<th>课程名称</th>
+<th>目录（GitHub）</th>
+<th>状态</th>
+</tr>
+</thead>
+<tbody>
+<tr><th colspan="4" align="left">Semester A 2025/26</th></tr>
+<tr>
+<td>CS5187</td>
+<td>Vision and Image</td>
+<td><a href="courses/CS5187-Vision-and-Image"><code>courses/CS5187-Vision-and-Image</code></a></td>
+<td>🟡 已有课程材料</td>
+</tr>
+<tr>
+<td>CS5285</td>
+<td>Information Security for eCommerce</td>
+<td><a href="courses/CS5285-Information-Security-for-eCommerce"><code>courses/CS5285-Information-Security-for-eCommerce</code></a></td>
+<td>🟡 已有课程材料</td>
+</tr>
+<tr>
+<td>CS5481</td>
+<td>Data Engineering</td>
+<td><a href="courses/CS5481-Data-Engineering"><code>courses/CS5481-Data-Engineering</code></a></td>
+<td>🟡 已有课程材料</td>
+</tr>
+<tr>
+<td>EC5001</td>
+<td>Introduction to eCommerce</td>
+<td><a href="courses/EC5001-Introduction-to-eCommerce"><code>courses/EC5001-Introduction-to-eCommerce</code></a></td>
+<td>🟡 已有课程材料</td>
+</tr>
+<tr>
+<td>IS5414</td>
+<td>Analysis and Design of eCommerce Systems</td>
+<td><a href="courses/IS5414-Analysis-and-Design-of-eCommerce-Systems"><code>courses/IS5414-Analysis-and-Design-of-eCommerce-Systems</code></a></td>
+<td>🟡 已有课程材料</td>
+</tr>
+<tr>
+<td>IS6400</td>
+<td>Business Data Analytics</td>
+<td><a href="courses/IS6400-Business-Data-Analytics"><code>courses/IS6400-Business-Data-Analytics</code></a></td>
+<td>🟡 已有课程材料</td>
+</tr>
+<tr><th colspan="4" align="left">Semester B 2025/26</th></tr>
+<tr>
+<td>CS5281</td>
+<td>Internet Application Development</td>
+<td><a href="courses/CS5281-Internet-Application-Development"><code>courses/CS5281-Internet-Application-Development</code></a></td>
+<td>🟡 已有课程材料</td>
+</tr>
+<tr>
+<td>CS5491</td>
+<td>Artificial Intelligence</td>
+<td><a href="courses/CS5491-Artificial-Intelligence"><code>courses/CS5491-Artificial-Intelligence</code></a></td>
+<td>🟡 已有课程材料</td>
+</tr>
+<tr>
+<td>CS6493</td>
+<td>Natural Language Processing</td>
+<td><a href="courses/CS6493-Natural-Language-Processing"><code>courses/CS6493-Natural-Language-Processing</code></a></td>
+<td>🟡 已有课程材料</td>
+</tr>
+<tr>
+<td>IS5314</td>
+<td>eBusiness System Integration</td>
+<td><a href="courses/IS5314-eBusiness-System-Integration"><code>courses/IS5314-eBusiness-System-Integration</code></a></td>
+<td>🟡 已有课程材料</td>
+</tr>
+</tbody>
+</table>
 
 状态图例：🟡 已有课程材料 · 🟢 整理中 · 🔵 规划中
 
