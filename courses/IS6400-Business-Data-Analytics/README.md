@@ -18,13 +18,15 @@
 
 ## 课程材料（Course Materials）
 
-> **版权说明**：本目录下 `official/` 中的课件来自 CityU 课程门户可下载资料（lectures / tutorials / assignments），仅作学习参考整理，版权归原作者所有及 CityU 所有，本人不主张任何版权。如任课教师或版权方认为不妥，请随时联系，将第一时间处理。
->
-> `my-notes/` 中为本人学习整理与从课程社群收集的笔记，遵循 MIT 协议开放，转载请注明出处。
+> **版权说明**：`materials/official/` 收录 CityU 课程门户可下载的官方课件（讲义、Tutorial、作业说明、试题等，不含答案），版权归原作者及 CityU 所有，本人不主张任何版权；若版权方认为不妥可随时联系撤下。`materials/my-notes/` 为本人原创与从课程社群收集的学习整理，遵循 MIT 协议开放。
 
-- `materials/official/lecture/` —— 官方 lecture slides（W1–L11）：Linear Regression / Data Mining / Feature Engineering / Clustering / Classification / Time Series / Model Assessment / Deep Learning 等
-- `materials/official/` —— 官方项目说明：`IS6400 Project Guideline_2025A.pdf`
-- `materials/my-notes/` —— 学习整理、作业、项目材料与课程群同学分享笔记（如 `week7_Generative AI_yanyu.pdf`）
+**官方课件 `official/`（不含答案）**
+- `official/lecture/` —— 官方 lecture slides（W1–L11）：Linear Regression / Data Mining / Feature Engineering / Clustering / Classification / Time Series / Model Assessment / Deep Learning 等
+- `official/` 根目录 —— 官方项目说明：`IS6400 Project Guideline_2025A.pdf`
+
+**个人与社群笔记 `my-notes/`（MIT 开放）**
+- 学习整理、作业与项目材料（含报告、Colab 导出 PDF、数据集等）
+- 课程群同学分享：[week7_Generative AI_yanyu.pdf](materials/my-notes/week7_Generative%20AI_yanyu.pdf)
 
 ## 笔记索引
 

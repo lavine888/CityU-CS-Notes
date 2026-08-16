@@ -30,9 +30,13 @@
 - 教材（待补充）
 ## 课程材料（Course Materials）
 
-> **版权说明**：本目录下 `official/` 中的课件来自 CityU 课程门户可下载资料（lectures / tutorials / assignments），仅作学习参考整理，版权归原作者所有及 CityU 所有，本人不主张任何版权。如任课教师或版权方认为不妥，请随时联系，将第一时间处理。
->
-> `my-notes/` 中为本人原创笔记与学习整理，遵循 MIT 协议开放，转载请注明出处。
+> **版权说明**：`materials/official/` 收录 CityU 课程门户可下载的官方课件（讲义、Tutorial、作业说明、试题等，不含答案），版权归原作者及 CityU 所有，本人不主张任何版权；若版权方认为不妥可随时联系撤下。`materials/my-notes/` 为本人原创与从课程社群收集的学习整理，遵循 MIT 协议开放。
 
-- `materials/official/` —— 官方课件（不含答案）
-- `materials/my-notes/` —— 本人原创笔记 / 作业 / 整理
+**官方课件 `official/`（不含答案）**
+- `official/nlp-lecture/` —— 课程讲义（L1–L12：语言模型、词向量、Transformer、LLM、RAG、Agent 等）
+- `official/nlp-tutorial/` —— Tutorial Notebook（week1–11，含 LoRA、LangChain 等，不含答案）
+
+**个人与社群笔记 `my-notes/`（MIT 开放）**
+- [lecture_review_bilingual.pdf](materials/my-notes/lecture_review_bilingual.pdf)（中英双语复习）
+- [NLP-Review.pdf](materials/my-notes/NLP-Review.pdf)（NLP 综合复习）
+- `my-notes/reports/` —— 课程项目报告与展示（NLP-report-Lakers、QWen、AIME 实验、deepseek、nlp1–6 等）

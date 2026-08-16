@@ -18,12 +18,16 @@
 
 ## 课程材料（Course Materials）
 
-> 版权说明：`materials/official/` 收录 CityU 课程门户可下载的学习资料（不含答案），版权归原作者及 CityU 所有，本人不主张任何版权；若版权方认为不妥可随时联系撤下。`materials/my-notes/` 为本人原创整理，遵循 MIT 协议开放。
+> **版权说明**：`materials/official/` 收录 CityU 课程门户可下载的官方课件（讲义、Tutorial、作业说明、试题等，不含答案），版权归原作者及 CityU 所有，本人不主张任何版权；若版权方认为不妥可随时联系撤下。`materials/my-notes/` 为本人原创与从课程社群收集的学习整理，遵循 MIT 协议开放。
 
-- `official/lecture/` — 课程讲义 slides：`02HTML.pdf`、`combined_4up.pdf`
-- `official/tutorial/` — Tutorial 练习（T1–T5）：HTML / Form / Inline & External CSS / JavaScript Form
-- `official/revision/` — `Revision+Exercise+Que.pdf` 复习练习题
-- `my-notes/` — 本人原创整理：`practice_knowledge_summary.pdf`（知识总结）、`tutorial1-4_exam_guide_annotated.pdf`（带标注考试指南）
+**官方课件 `official/`（不含答案）**
+- `official/lecture/` —— 课程讲义 slides：`02HTML.pdf`、`combined_4up.pdf`
+- `official/tutorial/` —— Tutorial 练习（T1–T5）：HTML / Form / Inline & External CSS / JavaScript Form
+- `official/revision/` —— `Revision+Exercise+Que.pdf` 复习练习题
+
+**个人与社群笔记 `my-notes/`（MIT 开放）**
+- [practice_knowledge_summary.pdf](materials/my-notes/practice_knowledge_summary.pdf)（知识总结）
+- [tutorial1-4_exam_guide_annotated.pdf](materials/my-notes/tutorial1-4_exam_guide_annotated.pdf)（带标注考试指南）
 
 ## 笔记索引
 

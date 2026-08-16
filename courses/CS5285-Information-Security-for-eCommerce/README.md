@@ -29,10 +29,13 @@
 - 教材（待补充）
 ## 课程材料（Course Materials）
 
-> **版权说明**：本目录下 `official/` 中的课件来自 CityU 课程门户可下载资料（lectures / tutorials / assignments），仅作学习参考整理，版权归原作者所有及 CityU 所有，本人不主张任何版权。如任课教师或版权方认为不妥，请随时联系，将第一时间处理。
->
-> `my-notes/` 中为本人原创笔记与学习整理，遵循 MIT 协议开放，转载请注明出处。
+> **版权说明**：`materials/official/` 收录 CityU 课程门户可下载的官方课件（讲义、Tutorial、作业说明、试题等，不含答案），版权归原作者及 CityU 所有，本人不主张任何版权；若版权方认为不妥可随时联系撤下。`materials/my-notes/` 为本人原创与从课程社群收集的学习整理，遵循 MIT 协议开放。
 
-- `materials/official/` —— 官方课件（不含答案）
-  - `official/exams/` —— 历年期末考题卷（CS5285-0102B 等 8 份 + 2020 考题，均为试题不含答案）
-- `materials/my-notes/` —— 本人原创笔记 / 作业 / 整理
+**官方课件 `official/`（不含答案）**
+- `official/lecture/` —— 课程讲义（5285-1/2 截图与 PDF）
+- `official/tutorial/` —— 习题集（PS2）
+- `official/revision/` —— 复习资料（Revision、Additional Questions for Practice）
+- `official/exams/` —— 历年期末考题卷（CS5285-0102B 等 8 份 + 2020 考题，均为试题不含答案）
+
+**个人与社群笔记 `my-notes/`（MIT 开放）**
+- [5285cheatsheet.docx](materials/my-notes/5285cheatsheet.docx) · [cheatsheet.pdf](materials/my-notes/cheatsheet.pdf)
