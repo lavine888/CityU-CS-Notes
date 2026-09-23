@@ -3,6 +3,7 @@
 > 香港城市大学 CityU MSc 计算机相关课程学习笔记仓库 · 按真实修课记录整理
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Check notes](https://img.shields.io/github/actions/workflow/status/lavine888/CityU-CS-Notes/ci.yml?label=check%20notes)](https://github.com/lavine888/CityU-CS-Notes/actions/workflows/ci.yml)
 [![Last Updated](https://img.shields.io/badge/last%20updated-2026--08-blue.svg)](https://github.com/lavine888/CityU-CS-Notes)
 [![CityU](https://img.shields.io/badge/CityU-MSc%20CS-lightgrey.svg)](https://www.cityu.edu.hk/)
 

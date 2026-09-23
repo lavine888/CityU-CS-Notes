@@ -1,0 +1,45 @@
+name: 笔记问题 / 纠错
+description: 报告笔记错误、失效链接，或建议补充内容
+title: "[Fix] "
+labels: ["documentation"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 类型
+      options:
+        - 内容理解错误 / 公式有误
+        - 链接失效或路径不对
+        - 笔记缺失，建议补充
+        - 目录 / 索引不一致
+        - 版权问题，需要撤下资料
+    validations:
+      required: true
+  - type: input
+    id: course
+    attributes:
+      label: 相关课程 / 文件
+      description: 课程目录或笔记文件路径，例如 courses/CS5187-Vision-and-Image/...
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 具体问题
+      description: 哪一句 / 哪张图 / 哪个链接？如果是理解错误，请给出你认为正确的说法与依据。
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 建议修改（可选）
+      description: 可以直接贴出你建议替换的内容。
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 我没有粘贴课程官方未公开的考试题、答案或作业原题。
+          required: true

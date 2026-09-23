@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 贡献指南
+    url: https://github.com/lavine888/CityU-CS-Notes/blob/main/CONTRIBUTING.md
+    about: 笔记规范、新增课程流程与 PR 检查清单
+  - name: 笔记模板
+    url: https://github.com/lavine888/CityU-CS-Notes/blob/main/templates/note-template.md
+    about: 新笔记请严格使用这个模板
+  - name: 版权与撤下说明
+    url: https://github.com/lavine888/CityU-CS-Notes/blob/main/README.md
+    about: 官方资料版权归 CityU / 授课教师所有，如需撤下请开 Issue 联系

@@ -1,0 +1,30 @@
+name: Check notes
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: notes-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Course index and links
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Fully offline: verifies that every course directory is listed in the
+      # root README index and that every relative link resolves.
+      - name: Check course index and relative links
+        run: node scripts/check-notes.mjs

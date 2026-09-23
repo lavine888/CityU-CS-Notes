@@ -1,0 +1,38 @@
+name: 新增课程 / 笔记
+description: 提议开一门新课的目录，或认领一门课来补笔记
+title: "[Course] "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: course
+    attributes:
+      label: 课程名称与代码
+      placeholder: "例如 CS5187 Vision and Image / CS6493 Natural Language Processing"
+    validations:
+      required: true
+  - type: dropdown
+    id: intent
+    attributes:
+      label: 你想做什么
+      options:
+        - 新增一门课（建目录 + 索引）
+        - 认领已有课程，补充笔记
+        - 补充某门课的题解 / 项目经验
+    validations:
+      required: true
+  - type: textarea
+    id: outline
+    attributes:
+      label: 计划整理的内容
+      description: 大致章节 / 主题列表，方便确认方向。
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: 遵守笔记规范
+      options:
+        - label: 我会使用 templates/note-template.md，并在根 README 与 courses/README.md 更新索引。
+          required: true
+        - label: 我不会粘贴课程官方未公开的讲义、考试题或作业原题。
+          required: true
